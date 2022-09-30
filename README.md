@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @B-Musick
-- 👀 I’m interested in ...
+- 👀 I’m interested in full stack web development and software development.
 - 🌱 I’m currently learning BioPython
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+📫 Associated website links 
+<!-- [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only) -->
+[website]
 
 <!---
 B-Musick/B-Musick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
