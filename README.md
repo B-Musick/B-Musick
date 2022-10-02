@@ -3,10 +3,12 @@
 - 🌱 I’m currently learning BioPython
 
 📫 Associated website links
+&nbsp;&nbsp;
 <a href="http://www.brendanmusick.com/">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./images/portfolio-link.svg">
-  <img alt="hi" src="./images/portfolio-link.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/portfolio-link.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="images/linkedin-light.svg">
+  <img alt="hi" src="images/linkedin-light.svg">
 </picture>
 </a>
 <!-- [![website](./images/portfolio-link.svg)](http://www.brendanmusick.ca#gh-dark-mode-only)
