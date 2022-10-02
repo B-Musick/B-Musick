@@ -2,17 +2,25 @@
 - 👀 I’m interested in full stack web development and software development.
 - 🌱 I’m currently learning BioPython
 
-📫 Associated website links 
-
-[![website](./images/portfolio-link.svg)](http://www.brendanmusick.ca/)
+📫 Associated website links
+<a href="http://www.brendanmusick.com/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./images/portfolio-link.svg">
+  <img alt="hi" src="./images/portfolio-link.svg">
+</picture>
+</a>
+<!-- [![website](./images/portfolio-link.svg)](http://www.brendanmusick.ca#gh-dark-mode-only)
+[![website](./img/portfolio-link-dark.svg)](http://www.brendanmusick.ca#gh-light-mode-only) -->
 &nbsp;&nbsp;
 
-[![website](./images/linkedin-link.svg)]([https://www.linkedin.com/in/brendanmusick/](https://www.linkedin.com/in/brendanmusick/))
-&nbsp;&nbsp;
+<!-- [![website](./images/linkedin-link.svg)]([https://www.linkedin.com/in/brendanmusick/](https://www.linkedin.com/in/brendanmusick/))
+&nbsp;&nbsp; -->
 
-<table>
-<th><img style="display:block;" width="100%" height="100%" alt="B-Musick's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=B-Musick&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></th> 
-<th><img style="display:block;" width="100%" height="100%" alt="B-Musicks's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Musick&layout=compact" /></th>
+<table border="1" bordercolor="#aaa" cellspacing="0" cellpadding="0">
+<tr>
+  <td><img style="display:block;" width="100%" height="100%" alt="B-Musick's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=B-Musick&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></td> 
+<td><img style="display:block;" width="100%" height="100%" alt="B-Musicks's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Musick&layout=compact" /></td>
+</tr>
 </table>
 
 
