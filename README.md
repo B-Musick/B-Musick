@@ -11,6 +11,15 @@
   <img alt="hi" src="images/linkedin-light.svg">
 </picture>
 </a>
+
+<a href="https://www.linkedin.com/in/brendanmusick/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/linkedin-dark-mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/linkedin-light.svg">
+  <img alt="linkedin" src="images/linkedin-light.svg">
+</picture>
+</a>
+
 <!-- [![website](./images/portfolio-link.svg)](http://www.brendanmusick.ca#gh-dark-mode-only)
 [![website](./img/portfolio-link-dark.svg)](http://www.brendanmusick.ca#gh-light-mode-only) -->
 &nbsp;&nbsp;
