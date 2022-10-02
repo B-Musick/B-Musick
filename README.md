@@ -4,13 +4,7 @@
 
 📫 Associated website links
 &nbsp;&nbsp;
-<a href="http://www.brendanmusick.com/">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="images/portfolio-link.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="images/linkedin-light.svg">
-  <img alt="hi" src="images/linkedin-light.svg">
-</picture>
-</a>
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/brendanmusick/">
 <picture>
@@ -19,6 +13,16 @@
   <img alt="linkedin" src="images/linkedin-light.svg">
 </picture>
 </a>
+<a href="http://www.brendanmusick.com/">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="images/portfolio-link.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="images/portfolio-dark.svg">
+  <img alt="portfolio" src="images/linkedin-light.svg">
+</picture>
+</a>
+&nbsp;&nbsp;
+
+
 
 <!-- [![website](./images/portfolio-link.svg)](http://www.brendanmusick.ca#gh-dark-mode-only)
 [![website](./img/portfolio-link-dark.svg)](http://www.brendanmusick.ca#gh-light-mode-only) -->
