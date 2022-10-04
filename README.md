@@ -1,10 +1,17 @@
 - 👋 Hi, I’m @B-Musick
 - 👀 I’m interested in full stack web development and software development.
-- 🌱 I’m currently learning BioPython
+- 🌱 I’m currently learning BioPython and creating a mock library in Javascript called BioJS
 
-📫 Associated website links
+My Links 📫
 &nbsp;&nbsp;
-&nbsp;&nbsp;
+
+<a href="http://www.brendanmusick.com/">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="images/portfolio-link.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="images/portfolio-dark.svg">
+  <img alt="portfolio" src="images/linkedin-light.svg">
+</picture>
+</a>
 
 <a href="https://www.linkedin.com/in/brendanmusick/">
 <picture>
@@ -13,13 +20,7 @@
   <img alt="linkedin" src="images/linkedin-light.svg">
 </picture>
 </a>
-<a href="http://www.brendanmusick.com/">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="images/portfolio-link.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="images/portfolio-dark.svg">
-  <img alt="portfolio" src="images/linkedin-light.svg">
-</picture>
-</a>
+
 &nbsp;&nbsp;
 
 
