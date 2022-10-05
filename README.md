@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @B-Musick
 - 👀 I’m interested in full stack web development and software development.
-- 🌱 I’m currently learning BioPython and creating a mock library in Javascript called BioJS
+- 🌱 I’m currently learning BioPython and creating a mock library in Javascript called BioJS [<a href="https://github.com/B-Musick/bioJS">bioJS</a>
 
 My Links 📫
 &nbsp;&nbsp;
