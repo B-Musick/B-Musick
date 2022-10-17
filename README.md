@@ -1,9 +1,9 @@
 ```Computer Science Graduate | Full Stack Developer ```
+<br>
 👋 Hi, I am a self taught full stack web developer and a University Graduate majoring in Computer Science. I’m currently learning BioPython and creating a mock library in Javascript called <a href="https://github.com/B-Musick/bioJS">bioJS</a>
 
-My Links 📫
+#### My Links 
 &nbsp;&nbsp;
-
 <a href="http://www.brendanmusick.com/">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="images/portfolio-link.svg">
@@ -11,7 +11,6 @@ My Links 📫
   <img alt="portfolio" src="images/linkedin-light.svg">
 </picture>
 </a>
-
 <a href="https://www.linkedin.com/in/brendanmusick/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="images/linkedin-dark-mode.svg">
@@ -19,10 +18,9 @@ My Links 📫
   <img alt="linkedin" src="images/linkedin-light.svg">
 </picture>
 </a>
-
 &nbsp;&nbsp;
 
-# Languages and Tools
+#### Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
