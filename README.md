@@ -1,6 +1,6 @@
 ```Computer Science Graduate | Full Stack Developer ```
 <br>
-👋 Hi, I am a self taught full stack web developer and a University Graduate majoring in Computer Science. I’m currently learning BioPython and creating a mock library in Javascript called <a href="https://github.com/B-Musick/bioJS">bioJS</a>
+👋 Hi, I am a self taught full stack web developer and a University Graduate majoring in Computer Science. I’m currently learning BioPython and creating a mock library in Javascript called <a href="https://github.com/B-Musick/evoJS">evoJS</a>. I am also reading <a href="https://www.amazon.ca/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646">Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow</a>
 
 #### My Links 
 &nbsp;&nbsp;
