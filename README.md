@@ -1,6 +1,6 @@
 ```Computer Science Graduate | Full Stack Developer ```
 <br>
-👋 Hi, I am a self taught full stack web developer and a University Graduate majoring in Computer Science. I’m currently learning BioPython and creating a mock library in Javascript called <a href="https://github.com/B-Musick/evoJS">evoJS</a>. I am also reading <a href="https://www.amazon.ca/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646">Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow</a>
+👋 Hi, I am a self taught full stack web developer and a University Graduate majoring in Computer Science. My main stack uses MongoDB for the databse, Express as the framework, NodeJS as the server, and on the front end JS, HTML and CSS. I’m currently learning BioPython and creating a mock library in Javascript called <a href="https://github.com/B-Musick/evoJS">evoJS</a>. I am also reading <a href="https://www.amazon.ca/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646">Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow</a> to add on the my AI knowledge from the COMP 3190 course I to at the U of M, and eventually code my own plant ID machine learning application.
 
 #### My Links 
 &nbsp;&nbsp;
