@@ -8,7 +8,7 @@
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="images/portfolio-link.svg">
   <source media="(prefers-color-scheme: dark)" srcset="images/portfolio-dark.svg">
-  <img alt="portfolio" src="images/linkedin-light.svg">
+  <img alt="portfolio" src="images/portfolio-dark.svg">
 </picture>
 </a>
 <a href="https://www.linkedin.com/in/brendanmusick/">
