@@ -1,7 +1,5 @@
-<div class="flex flex-wrap">
-  <h2>Brendan Musick</h2>
-  <code>Full Stack Developer | Self-Employed | B.Sc Comp Sci. | B. Sc. Biological Sciences</code>
-</div>
+<h1>Brendan Musick</h1>
+<code>Full Stack Developer | Self-Employed | B.Sc Comp Sci. | B. Sc. Biological Sciences</code>
 
 <br>
 <br>
@@ -10,6 +8,7 @@
   - **Backend:** PHP-Laravel | Django
 
 ## Current Projects
+### Biopython Visualizer
 I’m currently learning BioPython and working on Rosalind questions to gain a deeper understanding of genetics and creating a [Genetic Visualizer](https://github.com/B-Musick/biopython_ui) in React, creating a [Django Api](https://github.com/B-Musick/biopython-django-api) to call various Biopython methods and store user data. 
 
 ## Current Reading
