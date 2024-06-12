@@ -1,6 +1,19 @@
-```Computer Science Graduate | Full Stack Developer ```
+<div class="flex flex-wrap">
+  <h2>Brendan Musick</h2>
+  <code>Full Stack Developer | Self-Employed | B.Sc Comp Sci. | B. Sc. Biological Sciences</code>
+</div>
+
 <br>
-👋 Hi, I am a self taught full stack web developer and a University Graduate majoring in Computer Science. My main stack uses MongoDB for the databse, Express as the framework, NodeJS as the server, and on the front end JS, HTML and CSS. I’m currently learning BioPython and creating a mock library in Javascript called <a href="https://github.com/B-Musick/evoJS">evoJS</a>. I am also reading <a href="https://www.amazon.ca/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646">Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow</a> to add on the my AI knowledge from the COMP 3190 course I to at the U of M, and eventually code my own plant ID machine learning application.
+<br>
+👋 Hi, I am a self taught full stack web developer and a University Graduate majoring in Computer Science. The current stacks I am using in projects are:
+  - **Frontend:** React
+  - **Backend:** PHP-Laravel | Django
+
+## Current Projects
+I’m currently learning BioPython and working on Rosalind questions to gain a deeper understanding of genetics and creating a [Genetic Visualizer](https://github.com/B-Musick/biopython_ui) in React, creating a [Django Api](https://github.com/B-Musick/biopython-django-api) to call various Biopython methods and store user data. 
+
+## Current Reading
+I am reading [Designing Interfaces](https://www.amazon.ca/Designing-Interfaces-Patterns-Effective-Interaction/dp/1492051969/ref=asc_df_1492051969/?tag=googleshopc0c-20&linkCode=df0&hvadid=378350457287&hvpos=&hvnetw=g&hvrand=1900687042903087227&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9001173&hvtargid=pla-868976490226&psc=1&mcid=f95ab2f133b232c18a7682d534cfc49f) to try and get a better feel for UX design and better laying out the software I develop.
 
 #### My Links 
 &nbsp;&nbsp;
