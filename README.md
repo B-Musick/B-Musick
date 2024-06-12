@@ -4,18 +4,17 @@
 <br>
 <br>
 👋 Hi, I am a self taught full stack web developer and a University Graduate majoring in Computer Science. The current stacks I am using in projects are:
+
   - **Frontend:** React
   - **Backend:** PHP-Laravel | Django
 
-## Current Projects
-### Biopython Visualizer
-I’m currently learning BioPython and working on Rosalind questions to gain a deeper understanding of genetics and creating a [Genetic Visualizer](https://github.com/B-Musick/biopython_ui) in React, creating a [Django Api](https://github.com/B-Musick/biopython-django-api) to call various Biopython methods and store user data. 
+### Current Projects
+**Biopython Visualizer** - I’m currently learning BioPython and working on Rosalind questions to gain a deeper understanding of genetics and creating a [Genetic Visualizer](https://github.com/B-Musick/biopython_ui) in React, creating a [Django Api](https://github.com/B-Musick/biopython-django-api) to call various Biopython methods and store user data. 
 
-## Current Reading
-I am reading [Designing Interfaces](https://www.amazon.ca/Designing-Interfaces-Patterns-Effective-Interaction/dp/1492051969/ref=asc_df_1492051969/?tag=googleshopc0c-20&linkCode=df0&hvadid=378350457287&hvpos=&hvnetw=g&hvrand=1900687042903087227&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9001173&hvtargid=pla-868976490226&psc=1&mcid=f95ab2f133b232c18a7682d534cfc49f) to try and get a better feel for UX design and better laying out the software I develop.
+### Current Reading
+**Designing Interfaces** - I am reading [Designing Interfaces](https://www.amazon.ca/Designing-Interfaces-Patterns-Effective-Interaction/dp/1492051969/ref=asc_df_1492051969/?tag=googleshopc0c-20&linkCode=df0&hvadid=378350457287&hvpos=&hvnetw=g&hvrand=1900687042903087227&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9001173&hvtargid=pla-868976490226&psc=1&mcid=f95ab2f133b232c18a7682d534cfc49f) to try and get a better feel for UX design and better laying out the software I develop.
 
 #### My Links 
-&nbsp;&nbsp;
 <a href="http://www.brendanmusick.com/">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="images/portfolio-link.svg">
@@ -23,16 +22,19 @@ I am reading [Designing Interfaces](https://www.amazon.ca/Designing-Interfaces-P
   <img alt="portfolio" src="images/portfolio-dark.svg">
 </picture>
 </a>
+&ensp;
 <a href="https://www.linkedin.com/in/brendanmusick/">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/linkedin-dark-mode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="images/linkedin-light.svg">
-  <img alt="linkedin" src="images/linkedin-light.svg">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/linkedin-dark-mode.svg">
+    <source media="(prefers-color-scheme: light)" srcset="images/linkedin-light.svg">
+    <img alt="linkedin" src="images/linkedin-light.svg">
+  </picture>
 </a>
 &nbsp;&nbsp;
 
 #### Languages and Tools
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
