@@ -1,5 +1,5 @@
 <h1>Brendan Musick</h1>
-<code>Full Stack Developer | Self-Employed | B.Sc Comp Sci. | B. Sc. Biological Sciences</code>
+<code>Full Stack Developer | Self-Employed | B.Sc Computer Science | B. Sc. Biological Sciences</code>
 
 <br>
 <br>
