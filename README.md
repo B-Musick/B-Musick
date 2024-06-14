@@ -3,7 +3,7 @@
 
 <br>
 <br>
-👋 Hi, I am a self taught full stack web developer and a University Graduate majoring in Computer Science. The current stacks I am using in projects are:
+👋 Hi, I am a  full stack web developer and a University Graduate majoring in Computer Science. The current stacks I am using in projects are:
 
   - **Frontend:** React, Vue
   - **Backend:** PHP-Laravel | Django
